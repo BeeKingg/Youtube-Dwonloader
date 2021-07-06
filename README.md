@@ -1,4 +1,6 @@
-# Youtube Dl bot 😉
+# Youtube Downloader Bot
+bot untuk mengunduh video dari youtube dan juga dapat menentukan resolusi yang ingin di unduh.
+
 ## Prerequisite
     ffmpeg
   
@@ -15,5 +17,7 @@
 ## Thanks ❤️
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
+* [Levina Shavila](https://t.me/dlwmrl)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
+## Deploy Ke Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/youtubedl-bot/tree/master)
