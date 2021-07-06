@@ -5,10 +5,10 @@ from pyrogram import Client, Filters, StopPropagation, InlineKeyboardButton, Inl
 async def start(client, message):
     # return
     joinButton = InlineKeyboardMarkup([
-        [InlineKeyboardButton("Channel", url="https://t.me/aryan_bots")],
+        [InlineKeyboardButton("🍀 CHANNEL 🍀", url="https://t.me/levinachannel")],
         [InlineKeyboardButton(
-            "Report Bugs 😊", url="https://t.me/aryanvikash")]
+            "🌸 GROUP 🌸", url="https://t.me/gcsupportbots")]
     ])
-    welcomed = f"Hey <b>{message.from_user.first_name}</b>\n/help for More info"
+    welcomed = f"🤗 Halo <b>{message.from_user.first_name}</b> selamat datang di youtube downloader bot.\n\n🍀 Aku adalah bot yang dibuat untuk mengunduh video dari youtube.\n\n🍀 Ketik /help untuk membaca panduan bot ini yah."
     await message.reply_text(welcomed, reply_markup=joinButton)
     raise StopPropagation
