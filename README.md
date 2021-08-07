@@ -20,4 +20,4 @@ bot untuk mengunduh video dari youtube dan juga dapat menentukan resolusi yang i
 * [Levina Shavila](https://t.me/dlwmrl)
 
 ## Deploy Ke Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/youtubedl-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeeKingg/Youtube-Dwonloader/tree/master)
